@@ -1,4 +1,10 @@
 
+<<<<<<< HEAD
 capitulo 2
 
+=======
+capitulo a
+
+editador con vim
+>>>>>>> alien-plot
 
